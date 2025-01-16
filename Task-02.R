@@ -2,7 +2,7 @@
 library(ggplot2)
 library(dplyr)
 
-# Load the Titanic dataset
+# Loading the Titanic dataset
 titanic <- read.csv("C:/Users/ASUS/Downloads/Titanic-Dataset.csv")
 
 # 1. Data Cleaning
