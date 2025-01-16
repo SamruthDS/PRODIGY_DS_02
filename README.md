@@ -6,7 +6,7 @@ Perform data cleaning and EDA on the Titanic dataset to explore relationships an
 
 ### Files
 - `Task2.R`: R script for data cleaning, descriptive statistics, and visualizations.
-- `dataset.csv`: Titanic dataset.
+- `Titanic-Dataset.csv`: Titanic dataset.
 
 ### How to Run
 1. Clone the repository or download it as a ZIP file.
